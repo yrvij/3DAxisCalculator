@@ -1,7 +1,6 @@
 # 3D-Axis-Calculator
 
 This is a 3D Axis Calculator that has a variety of features for calculations in the 3D Axis.
-
 The features this calculator has include:
   1) Finding the area of a parallelogram in the 3D axis
   2) Finding the area of a triangle in the 3D axis
