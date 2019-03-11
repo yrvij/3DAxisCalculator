@@ -11,5 +11,5 @@ The features this calculator has include:
   7) Finding the angle between two planes in the 3D axis
   8) Finding the distance between a point to a plane in the 3D axis
   
-As a side note: I used this in my H/ Pre-Calculus class for a chapter on "Analytic Geomtry in 3 Dimensions".
+Side Note: I used this in my H/ Pre-Calculus class for a chapter on "Analytic Geomtry in 3 Dimensions".
   
